@@ -93,6 +93,9 @@ curl -s -X POST "http://127.0.0.1:3419/func/oslist/list" \
 ```
 ### Example Output:
 ![Example Output](output1.png)
+
+### The server-side database containing the "oslist" library:
+![Example Output](output2.png)
 ------------------------------------------------------------------------
 
 ## How to running server ?
