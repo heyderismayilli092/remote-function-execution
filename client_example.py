@@ -1,6 +1,6 @@
 import requests
 
-url = "http://192.168.1.185:3419/func/oslist/list"
+url = "http://127.0.0.1:3419/func/oslist/list"
 
 # function to be triggered within the library
 arguments = {
